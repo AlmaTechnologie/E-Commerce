@@ -1,4 +1,7 @@
+## Demo
 
+![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
@@ -22,6 +25,3 @@ Windows:
 git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 ```
 
-
-
-This project is **free to use** and does not contains any license.
